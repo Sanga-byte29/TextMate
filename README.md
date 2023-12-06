@@ -1,4 +1,4 @@
-# React + Vite
+# Textmate - A real time collaboration web editor made with React and Firebase and CodeMirror Editor Plugin
 
 Dashboard
 
